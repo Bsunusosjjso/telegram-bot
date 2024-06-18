@@ -1,0 +1,18 @@
+UserID: 6278930296 | Time: 2024-06-11 06:40:31.460914 | Command: /bgmi | Target: 36.638.268 | Port: 14737 | Time: 120
+Username: @Lord_PridictorLord_Pridictor
+Target: 36.638.268
+Port: 14737
+Time: 120
+
+UserID: 6278930296 | Time: 2024-06-11 06:42:57.110771 | Command: /bgmi | Target: 36.638.268 | Port: 14737 | Time: 120
+Username: @Lord_PridictorLord_Pridictor
+Target: 36.638.268
+Port: 14737
+Time: 120
+
+UserID: 6278930296 | Time: 2024-06-11 07:36:12.867825 | Command: /bgmi | Target: 52.140.3.245 | Port: 27443 | Time: 180
+Username: @Lord_PridictorLord_Pridictor
+Target: 52.140.3.245
+Port: 27443
+Time: 180
+
